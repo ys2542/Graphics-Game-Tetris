@@ -1,6 +1,6 @@
 # Tetris
 
-A simple computer graphics game fulfilled by C++ and openGL.
+A classic computer graphics game fulfilled by C++ and openGL.
 
 Instructions: 
 
