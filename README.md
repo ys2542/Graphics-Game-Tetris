@@ -4,7 +4,7 @@ A classic computer graphics game fulfilled by C++ and openGL.
 
 Instructions: 
 
-1. Make a new directory called build.
+1. Create a new directory called build.
 2. Enter cmake command in the terminal in the build directory.
 3. Enter make command in the terminal to build the execution file.
 
